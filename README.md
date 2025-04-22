@@ -1,2 +1,2 @@
-Hey am murimii
+Murimi
 Bachelor or Computer science student 
