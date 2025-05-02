@@ -1,2 +1,3 @@
 Murimi
-Bachelor or Computer science student 
+Bachelor of Computer science student 
+
